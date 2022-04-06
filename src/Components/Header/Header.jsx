@@ -7,10 +7,10 @@ const Header = () => {
   return (
     <div className="header-container">
         <div className="header-closing">
-        <img  src={close} alt='x' />   
+         <img  src={close} alt='x' />   
         </div>
       <div className="header-title">
-          <img className="logo" src={logo} alt='flipkart' />
+          <img className="logo" src={logo} alt='flipkart' /> 
       </div>
     </div>
   )
